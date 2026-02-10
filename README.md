@@ -1,7 +1,3 @@
-<h4 align="center">
-
-
-
 MMP""MM""YMM         .6*"            
 P'   MM   `7       ,M'               
      MM   pd*"*b. ,Mbmmm.  M******A' 
@@ -11,9 +7,3 @@ P'   MM   `7       ,M'
    .JMML.Ammmmmmm  WMbmmd9    A'     
                              A'      
                             A'       
-
-
-</h1>
-
-
-
